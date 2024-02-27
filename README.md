@@ -23,5 +23,5 @@ I'm a software developer with a background in B.Tech IT from MIT Chennai looking
 - 🛠️ Tools & Technologies: Git, GitHub, Figma, VS Code
 ## Connect with Me
 
-- 📫 Feel free to [email me](mailto:srivijay1200@gmail.com).
+- 📫 Feel free to [email me - srivijay1200@gmail.com].
 - Connect me on [LinkedIn](https://www.linkedin.com/in/vijay-s-v-mit/) 
